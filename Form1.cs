@@ -13,7 +13,7 @@ namespace Milestone3
   * Enrique Sanchezmurillo
   * CST-150
   * Milestone 3
-  * 14 AUGE 2022
+  * 14 AUG 2022
   */
     public partial class Form1 : Form
     {
@@ -253,8 +253,6 @@ namespace Milestone3
             
             }
             
-
-        
         //Same as the addInventory but actions are reversed
         public void removeInventory(string prodName, int price, int quantity)
         {

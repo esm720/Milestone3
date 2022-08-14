@@ -224,7 +224,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1274, 706);
+            this.ClientSize = new System.Drawing.Size(1104, 560);
             this.Controls.Add(this.ItemsShopBox);
             this.Controls.Add(this.NewItemBox);
             this.Name = "Form1";
