@@ -224,11 +224,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1104, 560);
+            this.ClientSize = new System.Drawing.Size(828, 420);
             this.Controls.Add(this.ItemsShopBox);
             this.Controls.Add(this.NewItemBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Items Shop";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.NewItemBox.ResumeLayout(false);
             this.NewItemBox.PerformLayout();
